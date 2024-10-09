@@ -1,1 +1,1 @@
-Exemplo texto teste.
+Exemplo texto teste de novo comando para o arquivo
