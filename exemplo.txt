@@ -1,2 +1,4 @@
 Exemplo texto teste.
 Mudando o texto e incluindo no arquivo... via master..
+Exemplo texto teste de novo comando para o arquivo
+Conflito resolvido com a junção das partes...
