@@ -1,1 +1,2 @@
 Exemplo texto teste.
+Mudando o texto e incluindo no arquivo... via master..
